@@ -4,7 +4,7 @@ This repository contains a collection of cool Python modules that you may find u
 
 ## Overview
 
-Python is a versatile programming language with a rich ecosystem of libraries and modules. In this repository, we've curated a list of some of the coolest Python modules that you can explore and use in your projects.
+Python is a versatile programming language with a rich ecosystem of libraries and modules. In this repository, I've curated a list of some of the coolest Python modules that you can explore and use in your projects.
 
 ## How to Use
 
